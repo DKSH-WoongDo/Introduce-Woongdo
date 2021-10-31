@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./docs/image/woongdo-profile.png" height="700px" width="700px">
+    <img src="./docs/image/woongdo-profile.png">
     <h1 style="font-weight:800">🐻 Woongdo 📚</h1>
 </div>
 
