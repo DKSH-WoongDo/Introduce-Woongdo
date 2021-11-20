@@ -25,7 +25,7 @@
 <h1 style="font-weight:600">API</h1>
 <p>본교 학우분들이 '웅도'를 크롤링하는 것은 괜찮습니다만, 다른 사용자들이 사이트를 이용하는 데에 지장이 없는 수준으로 부탁드리겠습니다.</p>
 <p>또한, 사이트 레이아웃은 사전 예고 없이 갑작스럽게 변경될 수 있으며 그럴 때마다 크롤러가 오작동할 수 있으므로, <b><i>공식적으로 지원하는 API를 사용하시는 것을 권장드립니다.</i></b></p>
-<a href="https://github.com/DKSH-WoongDo/Introduce-Woongdo/blob/main/docs/api/README.md">자세한 사항은 API 문서를 확인해주세요.</a>
+<a href="https://github.com/DKSH-WoongDo/Woongdo-API">자세한 사항은 API 문서를 확인해주세요.</a>
 
 <h1 style="font-weight:600">Recruit</h1>
 
